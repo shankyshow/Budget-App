@@ -3,7 +3,7 @@ App for personal finance
 
 Everything is a working progress... Just started on February 5th 2018
 
-Check the Blueprint.pdf for.. you know.. the blueprint!
+Check the Blueprint.pdf for.. you know.. the blueprint! (working progress)
 
 Those who wish to collaborate, please feel free to reach out to me at @shankyshow on any social media (Facebook/YouTube/Instagram/Snapchat/Twitter/) or email theshankyshow@gmail.com www.shankyshow.com
 
